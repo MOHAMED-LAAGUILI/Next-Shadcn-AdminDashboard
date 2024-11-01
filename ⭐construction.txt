@@ -1,0 +1,18 @@
+src vid
+https://www.youtube.com/watch?v=l_I9CewUMRg&ab_channel=reactwithutkarsh
+
+create a next project with the tailwind and eslint
+npx create-next-app@latest "project-name" --tailwind --eslint
+
+add Shadcn UI
+npx shadcn@latest init
+
+
+to install a library that mesure scrren size and shows it 
+we need it add controls and coditions for some of components in nav 
+npm i @react-hook/window-size
+
+
+
+for costumized chart 
+npm install chart.js react-chartjs-2
